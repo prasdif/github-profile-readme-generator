@@ -46,7 +46,8 @@ describe('Addons', () => {
     devDynamicBlogs: false,
     mediumDynamicBlogs: false,
     rssDynamicBlogs: false,
-  };
+  }; 
+
   const socialInput = {
     github: '',
     dev: '',
